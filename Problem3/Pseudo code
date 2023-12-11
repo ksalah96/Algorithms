@@ -1,0 +1,5 @@
+Steps:
+step1- Ask the user to enter the number
+step2- Result = Num % 2
+step3- Check if Result = 0 then its even otherwise its odd
+step4- print odd or even
