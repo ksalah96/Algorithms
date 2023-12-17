@@ -1,0 +1,6 @@
+Steps:
+Step1: Ask the user to enter his/her age
+Step2: Ask the user if s/he has a driver license
+Step3: Result = (age > 21 and has driver license = true)
+Step4: Check if result = true then hire otherwise reject
+Step5: Print "Hired" or "Rejected"
