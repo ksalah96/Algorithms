@@ -1,0 +1,5 @@
+Steps:
+Step1: Ask the user to enter firstname
+Step2: Ask the user to enter lastname
+Step3: Fullname = firstname + " " + lastname
+Step4: print full name
