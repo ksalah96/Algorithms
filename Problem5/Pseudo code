@@ -1,0 +1,9 @@
+Steps
+Step1: Ask the user to enter age
+Step2: Ask the user have driving license 
+step3: Ask the user has recommandtion 
+step4: check if the user has recommendition = true then hire 
+step5: print 'Hired"
+Step6: if hasn't have Recommendation result = (age > 21 and has Driver license)
+Step7: check if the result = true then hire otherwise reject
+Step8: print hired otherwise rejected
